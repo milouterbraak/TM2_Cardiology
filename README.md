@@ -6,4 +6,4 @@ Baseline characteristics can be obtained in baseline.py. Additional parameters c
 The analysis is done with the main function Calculate_MA_main.
 Necessary to have the functions pol_fit and MA_analysis.
 
-A more detailed explanation can be found in Appendix D of the internship report: https://www.overleaf.com/read/xbszcqpghhjg
+A more detailed explanation can be found in Appendix C of the internship report: https://www.overleaf.com/read/xbszcqpghhjg
