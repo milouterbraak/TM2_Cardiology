@@ -4,6 +4,6 @@ Repository containing the python files used in the TM2 internship (March - May 2
 Baseline characteristics can be obtained in baseline.py. Additional parameters can be easily accessed as well. 
 
 The analysis is done with the main function Calculate_MA_main.
-Necessary to have the functions pol_fit.py and MA_analysis.
+Necessary to have the functions pol_fit and MA_analysis.
 
-More detailed explanation can be found in the Appendix D of the intership report: https://www.overleaf.com/read/xbszcqpghhjg
+A more detailed explanation can be found in Appendix D of the internship report: https://www.overleaf.com/read/xbszcqpghhjg
